@@ -1,9 +1,10 @@
 .Weather {
-  border: 1px solid #dbd8d0;
+  border: 1px solid #ece9e4;
   font-family: arial, sans-serif;
   padding: 16px;
   border-radius: 4px;
-  color: #55443a;
+  color: #d8c4b2;
+  background-color: #f8f8f7;
 }
 
 .Weather h1 {
@@ -34,15 +35,33 @@
 .Weather .temperature {
   font-weight: bold;
   font-size: 64px;
-  color: #000;
+  color: #be9982;
   line-height: 64px;
 }
 
 .Weather .unit {
-  color: #000;
+  color: #be9982;
   font-size: 16px;
   font-weight: 400;
   position: relative;
   line-height: 1;
   top: -34px;
+}
+
+#searchButton {
+  background-color: #be9982;
+  border: #d8c4b2;
+  color: #f8f8f7;
+}
+
+footer {
+  color: #be9982;
+}
+
+footer a {
+  color: #d8c4b2;
+}
+
+#formPlaceholder {
+  color: #d8c4b2;
 }
