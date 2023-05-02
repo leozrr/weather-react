@@ -35,16 +35,15 @@
 .Weather .temperature {
   font-weight: bold;
   font-size: 64px;
-  color: #beb0aa;
+  color: #000;
   line-height: 64px;
 }
 
 .Weather .unit {
-  color: #beb0aa;
+  color: #000;
   font-size: 16px;
   font-weight: 400;
   position: relative;
   line-height: 1;
   top: -34px;
-  margin-left: 5px;
 }
