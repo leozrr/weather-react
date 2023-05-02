@@ -3,7 +3,7 @@
   font-family: arial, sans-serif;
   padding: 16px;
   border-radius: 4px;
-  color: #d8c4b2;
+  color: #999999;
   background-color: #f8f8f7;
 }
 
@@ -35,12 +35,12 @@
 .Weather .temperature {
   font-weight: bold;
   font-size: 64px;
-  color: #be9982;
+  color: #000;
   line-height: 64px;
 }
 
 .Weather .unit {
-  color: #be9982;
+  color: #000;
   font-size: 16px;
   font-weight: 400;
   position: relative;
@@ -49,19 +49,19 @@
 }
 
 #searchButton {
-  background-color: #be9982;
-  border: #d8c4b2;
+  background-color: #999999;
+  border: #999999;
   color: #f8f8f7;
 }
 
 footer {
-  color: #be9982;
+  color: #999999;
 }
 
 footer a {
-  color: #d8c4b2;
+  color: #999999;
 }
 
 #formPlaceholder {
-  color: #d8c4b2;
+  color: #999999;
 }
