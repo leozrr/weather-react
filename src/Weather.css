@@ -1,10 +1,10 @@
 .Weather {
-  border: 1px solid #ece9e4;
+  border: 1px solid #eae0da;
   font-family: arial, sans-serif;
   padding: 16px;
   border-radius: 4px;
-  color: #999999;
-  background-color: #f8f8f7;
+  color: #bbabab;
+  background-color: #f6eee9;
 }
 
 .Weather h1 {
@@ -28,19 +28,19 @@
 
 .Weather canvas {
   margin-top: 5px;
-  margin-right: 5px; 
+  margin-right: 5px;
   display: inline-block;
 }
 
 .Weather .temperature {
   font-weight: bold;
   font-size: 64px;
-  color: #000;
+  color: #8e7373;
   line-height: 64px;
 }
 
 .Weather .unit {
-  color: #000;
+  color: #8e7373;
   font-size: 16px;
   font-weight: 400;
   position: relative;
@@ -49,19 +49,19 @@
 }
 
 #searchButton {
-  background-color: #999999;
+  background-color: #bbabab;
   border: #999999;
-  color: #f8f8f7;
+  color: #f6eee9;
 }
 
 footer {
-  color: #999999;
+  color: #bbabab;
 }
 
 footer a {
-  color: #999999;
+  color: #8e7373;
 }
 
 #formPlaceholder {
-  color: #999999;
+  color: #bbabab;
 }
