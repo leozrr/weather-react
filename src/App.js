@@ -9,7 +9,11 @@ export default function App() {
         <Weather defaultCity="Zurich" />
         <footer>
           This project is{" "}
-          <a href="https://github.com/leozrr/weather-react" target="_blank">
+          <a
+            rel="noreferrer"
+            href="https://github.com/leozrr/weather-react"
+            target="_blank"
+          >
             open-sourced on GitHub
           </a>
         </footer>
